@@ -18,14 +18,37 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: Zilveren Pijl
-$1109 :: Gouden Mantis
-$1110 :: Arcade
-$1111 :: Bandicoot Team
-
+$1100 :: Standaard Kart
+$1101 :: Koploper
+$1102 :: Biddy Buggy
+$1103 :: Std. Quad
+$1104 :: Knuffelquad
+$1105 :: Sprinter 2.0
+$1106 :: Sprinter
+$1107 :: GLA
+$1108 :: Paradepaardje
+$1109 :: Koopa Clown
+$1110 :: Skelter
+$1111 :: Topsporter
+$1112 :: Sjeesbeestje
+$1113 :: Diepzeeduikkar
+$1114 :: G. Locomobiel
+$1115 :: Flitsfregat
+ 
 #Kart Wheel Parts
-$1202 :: \uE033 Monster
-$1206 :: Blauw Monster
+$1200 :: Standard
+$1201 :: Mini
+$1202 :: Monster
+$1203 :: Glad
+$1204 :: Klassiek
+$1205 :: Sponzen
+$1206 :: Hot Monster
+$1207 :: GLA-wielen
+$1208 :: Hout
+$1209 :: Gouden wielen
 
 #Kart Glider Parts
-$1304 :: Vuur Swoop
+
+$1301 :: Glijscherm
+$1304 :: Wolkballonnen
+$1305 :: Zweefvliegtuig

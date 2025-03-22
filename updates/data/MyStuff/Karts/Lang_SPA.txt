@@ -18,14 +18,34 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: Flecha de Plata
-$1109 :: Excavakart
-$1110 :: Arcade
-$1111 :: Equipo Bandicoot
-
+$1100 :: Kart estándar
+$1101 :: Turbotenis
+$1102 :: Catina GTI
+$1103 :: Cuatrimoto
+$1104 :: Cuatripeluche
+$1105 :: Relámpago 1
+$1107 :: GLA
+$1108 :: Supercarroza
+$1109 :: Koopayaso
+$1111 :: Deportivo
+$1112 :: Kartrópodo
+$1113 :: Subacuauto
+$1114 :: D. Locomokong
+$1115 :: Nave Bowser
+ 
 #Kart Wheel Parts
-$1202 :: \uE033 Monstruo
-$1206 :: Monstruo Azul
+$1200 :: Estándar
+$1201 :: Pequeño
+$1202 :: Todoterreno
+$1203 :: Liso
+$1204 :: Clásico
+$1205 :: Esponja
+$1206 :: Todoterreno c.
+$1207 :: GLA
+$1208 :: Madera
 
 #Kart Glider Parts
-$1304 :: Piroswooper
+
+$1301 :: Parapente
+$1304 :: Ala Nubes
+$1305 :: Planeador

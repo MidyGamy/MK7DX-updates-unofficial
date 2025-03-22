@@ -18,14 +18,34 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: W 25 Flèche d'Argent
-$1109 :: Pelleteuse
-$1110 :: Arcade
-$1111 :: Kart Bandicoot
-
+$1100 :: Kart standard
+$1101 :: Espakart
+$1102 :: Paracoccinelly
+$1103 :: VTT
+$1104 :: VTT nounours
+$1105 :: Rapido
+$1107 :: GLA
+$1108 :: Deux-chevaux
+$1109 :: Clown Koopa
+$1111 :: Coupé sport
+$1112 :: Coléokart
+$1113 :: Steel Diver
+$1115 :: Bateau roulant
+ 
 #Kart Wheel Parts
-$1202 :: \uE033 Mastodonte
-$1206 :: Écrab. bleu
+$1200 :: Standard
+$1201 :: Mini
+$1202 :: Mastodonte
+$1203 :: Lisse
+$1204 :: Classique 
+$1205 :: Éponge
+$1206 :: Masto-flamme
+$1207 :: GLA
+$1208 :: Bois
 
 #Kart Glider Parts
-$1304 :: Swooper de Feu
+
+$1301 :: Parapente
+$1304 :: Aile nuages
+$1305 :: Planeur
+

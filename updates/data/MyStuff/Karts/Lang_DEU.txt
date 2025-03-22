@@ -18,14 +18,37 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: Silberner Pfeil
-$1109 :: Schaufelbagger
-$1110 :: Arkade
-$1111 :: Beuteldachs
-
+$1100 :: Standard Kart
+$1101 :: Sauseschuh
+$1102 :: Pünktchen-Kart
+$1103 :: Standard-Quad
+$1104 :: Bärchen-Bolide
+$1105 :: Rennwagen
+$1106 :: Bolide
+$1107 :: GLA
+$1108 :: Kirmes-Droschke
+$1109 :: Clown-Kutsche
+$1110 :: Go-Kart
+$1111 :: Sportcoupé
+$1112 :: Fichtenbock
+$1113 :: U-Kart
+$1114 :: G .Kokoloko
+$1115 :: PS-Galleere
+ 
 #Kart Wheel Parts
-$1202 :: \uE033 Geländereifen
-$1206 :: B. Geländereifen
+$1200 :: Standard
+$1201 :: Klein
+$1202 :: Riesig
+$1203 :: Slick
+$1204 :: Retro
+$1205 :: Schwamm
+$1206 :: O. Riesig
+$1207 :: GLA Tires
+$1208 :: Holz
+$1209 :: Goldräder
 
 #Kart Glider Parts
-$1304 :: F.-Flappflapp
+
+$1301 :: Gleitschirm
+$1304 :: Wolkenballons
+$1305 :: Segelflieger

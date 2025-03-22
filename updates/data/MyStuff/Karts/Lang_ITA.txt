@@ -18,14 +18,33 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: Freccia d'argento
-$1109 :: Oromantide
-$1110 :: Arcade
-$1111 :: Bandicoot Team
-
+$1100 :: Kart standard
+$1101 :: Sneakerona
+$1102 :: Coccinello V.
+$1103 :: Quad
+$1104 :: Quad orsetto
+$1105 :: Autobolide GP
+$1107 :: GLA
+$1108 :: Bicavalli
+$1109 :: Clown Koopa
+$1111 :: Sportento
+$1112 :: Scarabuggy
+$1113 :: Steel Driver
+$1115 :: Naveloce
+ 
 #Kart Wheel Parts
-$1202 :: \uE033 Maxi
-$1206 :: Maxi Blu
+$1200 :: Standard
+$1201 :: Piccoli
+$1202 :: Maxi
+$1203 :: Da corsa
+$1204 :: Classici
+$1205 :: Spugnosi
+$1206 :: Maxi arancio
+$1207 :: GLA Tires
+$1208 :: Legnosi
 
 #Kart Glider Parts
-$1304 :: Fiammaswooper
+
+$1301 :: Parapendio
+$1304 :: Paranuvolo
+$1305 :: Aliante

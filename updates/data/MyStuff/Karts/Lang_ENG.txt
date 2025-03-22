@@ -18,14 +18,37 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: Silver Arrow
-$1109 :: Gold Mantis
-$1110 :: Arcade
-$1111 :: Bandicoot Team
-
+$1100 :: Standard Kart
+$1101 :: Sneeker
+$1102 :: Biddybuggy
+$1103 :: ATV
+$1104 :: Teddy Buggy
+$1105 :: Circuit Special
+$1106 :: B Dasher
+$1107 :: GLA
+$1108 :: Prancer
+$1109 :: Koopa Clown
+$1110 :: Pipe Frame
+$1111 :: Sports Coupe
+$1112 :: Streetle
+$1113 :: Steel Driver
+$1114 :: Golden BT
+$1115 :: Landship
+ 
 #Kart Wheel Parts
-$1202 :: \uE033 Monster
-$1206 :: Blue Monster
+$1200 :: Standard
+$1201 :: Roller
+$1202 :: Monster
+$1203 :: Slick
+$1204 :: Slim
+$1205 :: Sponge
+$1206 :: Hot Monster
+$1207 :: GLA Tires
+$1208 :: Wood
+$1209 :: Golden Tires
 
 #Kart Glider Parts
-$1304 :: Fire Swoop
+
+$1301 :: Parafoil
+$1304 :: Cloud Glider
+$1305 :: Plane Glider
